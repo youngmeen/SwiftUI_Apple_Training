@@ -30,6 +30,7 @@ struct ContentView: View {
                     Label("List", systemImage: "list.bullet")
                 }
                 .tag(Tab.list)
+            
         }
     }
 }
