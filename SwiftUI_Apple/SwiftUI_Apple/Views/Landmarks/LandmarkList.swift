@@ -34,7 +34,7 @@ struct LandmarkList: View {
                     }
                 }
             }
-            .navigationTitle("Landmarks")
+            .navigationBarTitle("Landmark", displayMode: .inline)
         }
         
         
